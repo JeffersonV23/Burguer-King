@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "777534551903",
+    "project_id": "burguerkong-fb95f",
+    "storage_bucket": "burguerkong-fb95f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777534551903:android:cefbe3a5b970805202a8ea",
+        "android_client_info": {
+          "package_name": "com.example.burguerking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrS3STLtG0MCGgwpUCEjWWV4NRRKyk24E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
